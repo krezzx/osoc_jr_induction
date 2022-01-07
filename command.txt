@@ -1,0 +1,10 @@
+git branch -  lists all the branches 
+git rm[file]:- delete the file  from project 
+git status - list which file are staged, unstaged, and untracked 
+git diff :- show unstaged changes between your index and working directory .
+git branch -d[branch name]:- delete a branch 
+git stash :- save modified and staged changes 
+git mv[existing-path][new-path]:- change an existing file path and stage the move 
+git log --stat -M:- show all commiy logs with indication of any paths that moved
+git show[SHA]:- show any object in Git in Human-readable format 
+git fetch[alias]:- fetch down all the branches from git remote
