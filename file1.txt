@@ -1,2 +1,5 @@
+
 CONTENT OF FILE IN MAIN BRANCH
 I'M RITESH KUMAR SINGH
+content of file in conflicting branch
+i'm krritesh 
