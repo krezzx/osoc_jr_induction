@@ -1,0 +1,42 @@
+commit c7683a5980c77db14f96684e9d23adff96742c75
+Author: krrezx <krritesh2001@gmail.com>
+Date:   Fri Jan 7 20:57:10 2022 +0530
+
+    Adding screesnshots folder
+
+commit dd5edca8ee374d828755b115865e4bbc3430951b
+Author: krrezx <krritesh2001@gmail.com>
+Date:   Fri Jan 7 20:52:41 2022 +0530
+
+    Adding file about resolving merge conflict
+
+commit 0ac9115757189bb1bce6cf9644a8ecf027de2e7b
+Merge: 59f521c 5939ad8
+Author: krrezx <krritesh2001@gmail.com>
+Date:   Fri Jan 7 20:49:56 2022 +0530
+
+    adding file after resolving conflict  branch
+
+commit 5939ad849994780f389663a8453083f8e7666e65
+Author: krrezx <krritesh2001@gmail.com>
+Date:   Fri Jan 7 20:46:00 2022 +0530
+
+    adding file in conflicting  branch
+
+commit 59f521c8ddd0a37f3ba9465e442ba0a6d468dd9a
+Author: krrezx <krritesh2001@gmail.com>
+Date:   Fri Jan 7 20:44:25 2022 +0530
+
+    adding file in main branch
+
+commit b77c15f0bd3a5686a25b707af9f1b7b85449ff6c
+Author: krrezx <krritesh2001@gmail.com>
+Date:   Fri Jan 7 20:42:20 2022 +0530
+
+    Adding commands file
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit
