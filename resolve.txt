@@ -1,0 +1,2 @@
+The most easiest way to resolve the merge conflict is to make necessary changes.
+In our case we firstly remove the conflict dividers and then add and commit the merged file to main branch 
